@@ -1,3 +1,4 @@
+# From https://lazyadmin.nl/powershell/powershell-gui-howto-get-started/
 # Init PowerShell Gui
 Add-Type -AssemblyName System.Windows.Forms
 
